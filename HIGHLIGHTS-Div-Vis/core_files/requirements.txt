@@ -1,0 +1,18 @@
+tensorflow-gpu==1.15.2
+(If get error that not available, upgrade pip)
+Keras==2.2.4
+matplotlib==3.1.1
+scikit-image==0.16.2
+innvestigate==1.0.8
+opencv-python==4.1.1.26
+gym==0.15.4
+pandas==0.25.3
+numpy==1.17.4
+scipy==1.3.3
+seaborn==0.10.0
+joblib==0.14.1
+coloredlogs=14.0
+torch==1.6.0
+
+
+
